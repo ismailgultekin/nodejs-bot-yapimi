@@ -1,4 +1,4 @@
-# nodejs-bot-yapimi
+# nodejs bot yapimi
 
 İnternette en çok araştırılan konulardan birisi bot yapımı veya bot ile nasıl veri çekilir? desek yanlış olmaz galiba nodejs kullanarak bot yapımını sizler için derledim.
 
